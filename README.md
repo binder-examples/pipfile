@@ -15,7 +15,7 @@ Imagine someone expecting to run code within a git repository, after simply
 clicking a button link like this one, because someone suggested that
 possibility...
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/pipfile?urlpath=/lab/tree/index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/pipfile/master?urlpath=/lab/tree/index.ipynb)
 
 This person would end up mybinder.org and see a loading bar - what is going on?
 
